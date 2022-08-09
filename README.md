@@ -3,12 +3,12 @@
 
 Setup project with
 
-'''
+```
 npm i install
-'''
+```
 
 Run project with
 
-'''
+```
 npm run dev
-'''
+```
